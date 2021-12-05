@@ -1,6 +1,6 @@
 # table-pagination-scroll
 
-### Таблица Vue.js (JSX) с возможностью сортировки, фильтрации данных и переключения на бесконечный или виртуальный скролл vue-virtual-scroller
+### Таблица Vue.js (JSX) с возможностью сортировки, фильтрации данных и переключения на бесконечный или виртуальный скролл (vue-virtual-scroller)
 
 ![Untitled](src/assets/readme/pages.png)
 ##
